@@ -66,7 +66,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 
 - Backend
   <p align="left">
@@ -114,3 +114,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h4>Thank you for visiting my profile. Have a great day! 🌟</h2><img src="[Ni00ZWU2YzkyMjViZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EXdtHcY0K3_YAE6xErW8kOB7M5LqSo9eBgkjhdOgd9s](https://i.pinimg.com/originals/1a/b4/e6/1ab4e6a7041358d80dd6809fd4b97395.gif)https://i.pinimg.com/originals/1a/b4/e6/1ab4e6a7041358d80dd6809fd4b97395.gif" width="60px">
