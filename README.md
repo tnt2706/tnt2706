@@ -37,9 +37,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on [Sun](https://sun-asterisk.vn/)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops**, **Ruby**
 
  <!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
