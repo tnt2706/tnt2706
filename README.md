@@ -39,7 +39,7 @@
 
 - 🔭 I’m currently working on [Sun*](https://sun-asterisk.vn/)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops, Python**
 
  <!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
