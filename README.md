@@ -39,11 +39,11 @@
 
 - 🔭 I’m currently working on [Sun*](https://sun-asterisk.vn/)
 
-- 🌱 I’m currently learning **Devops, Python**
+- 🌱 I’m currently learning **Devops, Rust**
 
  <!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
-- 💬 Ask me about **NodeJS, Golang**
+- 💬 Ask me about **NodeJS, Golang, Python**
 
 - 📫 How to reach me **tranngoctinh96@gmail.com**
 
